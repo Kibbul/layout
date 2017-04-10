@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_zabytek.png",
+        "source": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\src\\main\\res\\mipmap-hdpi\\ic_zabytek.png"
+    },
+    {
+        "merged": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

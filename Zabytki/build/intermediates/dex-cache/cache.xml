@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alek\Desktop\android\Zabytki\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3777e2f19b7e9dc02f44190fe434abc8b8c66316">
+        <dex dex="C:\Users\Alek\Desktop\android\Zabytki\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b285098eb11bf0d90852898c06524df53ebd5d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alek\Desktop\android\Zabytki\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Alek\Desktop\android\Zabytki\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84e97beb1c7c0cc60d9ec8aab2229f8d33014a8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alek\.android\build-cache\e7185e68c670e277b916d152cd14538b165030a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Alek\Desktop\android\Zabytki\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1897e76b68843bc6b43ae5a1cb4dca1f2ad56e49\classes.dex" />
+    </item>
+
+</items>

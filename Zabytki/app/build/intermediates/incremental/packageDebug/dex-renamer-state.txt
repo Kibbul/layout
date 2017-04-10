@@ -1,0 +1,7 @@
+#Mon Apr 10 21:02:53 CEST 2017
+base.0=C\:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84e97beb1c7c0cc60d9ec8aab2229f8d33014a8b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b285098eb11bf0d90852898c06524df53ebd5d81\\classes.dex
+base.1=C\:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b285098eb11bf0d90852898c06524df53ebd5d81
+file.0=C\:\\Users\\Alek\\Desktop\\android\\Zabytki\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84e97beb1c7c0cc60d9ec8aab2229f8d33014a8b\\classes.dex
